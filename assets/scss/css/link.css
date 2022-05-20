@@ -1,0 +1,56 @@
+.container nav {
+  background-color: gainsboro;
+  position: relative;
+  height: 40px;
+  width: 100%;
+}
+
+.container nav .icon-btn {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: none;
+  background-color: gainsboro;
+}
+
+.container nav .icon-btn i sub {
+  position: absolute;
+  top: 7px;
+  right: 0px;
+  color: red;
+}
+
+.container .row .col-lg-6 img {
+  width: 100%;
+}
+
+.container .row .col-lg-6 .title {
+  margin-top: 20px;
+}
+
+.container .row .col-lg-6 .title h5 {
+  color: black;
+  font-weight: 400;
+}
+
+.container .row .col-lg-6 .sub_title {
+  margin-top: 5px;
+}
+
+.container .row .col-lg-6 .sub_title i {
+  margin-top: 10px;
+}
+
+.container .row .col-lg-6 h5 {
+  margin-top: 10px;
+  color: #ffc107;
+}
+
+.container .row .col-lg-6 ul li {
+  font-weight: 100;
+}
+
+.container .row .col-lg-6 .addbtn {
+  margin-top: 50px;
+}
+/*# sourceMappingURL=link.css.map */

@@ -1,0 +1,29 @@
+.container{
+    .row{
+        .card{
+            .image-two{
+                margin-top: 100px;
+                height: 100px;
+            } 
+        }
+
+        a{
+            text-decoration: none;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 50px;
+            color: black;
+
+           
+            
+        }
+
+        &:hover a {
+            color: rgb(49, 49, 195);
+            font-size: 20px;
+            transition: 1s;
+        }
+    }
+}
+
+

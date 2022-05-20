@@ -1,0 +1,94 @@
+.container{
+
+    nav{
+        background-color: gainsboro;
+        position: relative;
+        height: 40px;
+        width: 100%;
+        .icon-btn{
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            border: none;
+            background-color:gainsboro;
+            i{
+               
+                sup{
+                    position: absolute;
+                    top: 7px;
+                    right: 0px;
+                    color: red;
+                }
+            }
+        }
+    }
+}
+
+
+.container{
+    .row{
+        .col-lg-6{
+            img{
+              width: 100%;
+            }
+        }
+        .col-lg-6{
+            .title{
+                margin-top: 20px;
+                h5{
+                color: black;   
+                font-weight: 400; 
+                }
+                h2{
+
+                }
+            }
+
+            .sub_title{
+                margin-top: 5px;
+                i{
+                    margin-top: 10px;
+                }
+            }
+
+            h5{
+                margin-top: 10px;
+                color: #ffc107;
+            }
+
+            p{
+                i{
+
+                }
+            }
+
+            ul{
+                li{
+                    font-weight: 100;
+                    span{
+
+                    }
+                }
+            }
+
+            h3{
+
+            }
+
+            input{
+                
+            }
+
+            .addbtn{
+                margin-top: 50px;
+                .left-btn{
+                   
+                }
+                .right-btn{
+                   
+                }
+            }
+
+        }
+    }
+}
